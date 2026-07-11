@@ -1,11 +1,10 @@
 <p align="center">
 
-  <img src="./hooman-forouzesh-git-landing.png" width="100%" alt="foruzweb-landing-page
+  <img src="hooman-forouzesh-git-landing.png" width="100%" alt="foruzweb-landing-page
 
-"> 
+">
 
 </p>
-
 # 🚀 ForuzWeb Landing Page
 
 A premium responsive landing page designed with a modern UI/UX approach, high performance, and clean front-end architecture.
